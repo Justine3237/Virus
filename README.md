@@ -8,7 +8,7 @@ $pkg install git <br />
 $pkg install python2 <br />
 $pkg install ruby <br />
 $gem install lolcat <br />
-$git clone https://github.com/CyberEr0r/Malicious <br />
+$git clone https://github.com/Justine3237/Virus <br />
 $cd Malicious <br />
 $pip2 install -r requirements.txt <br />
 $python2 malicious.py <br />
