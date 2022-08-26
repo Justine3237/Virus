@@ -31,10 +31,10 @@ def banner():
 def about():
 	print("\t\t"+B+"<<<<<<| "+R+"About Tool "+B+"|>>>>>>\n")
 	print("\t"+G+"Made"+B+" with full"+R+" <3"+B+"\t\t")
-	print("\tAuthor  : BarrierJR\t\t\t")
-	print("\tVersion : 1.1\t\t\t")
-	print("\tTeam    : "+R+"Cyber Er0r System")
-	print("\t"+B+"Thanks to Barrier")
+	print("\tAuthor  : Justine\t\t\t")
+	print("\tVersion : 1.0\t\t\t")
+	print("\tTeam    : "+R+"TEXIDOMEG")
+	print("\t"+B+"Thanks JARVIS MODS TRIX")
 	menu()
 	
 def banner2():
