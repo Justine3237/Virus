@@ -4,7 +4,7 @@ Make it virus malicious with termux :')
 
 This is the script
 
-$pkg install git
+$pkg install git <br />
 $pkg install python2
 $pkg install ruby
 $gem install lolcat
